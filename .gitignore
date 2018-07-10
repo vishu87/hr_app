@@ -1,0 +1,7 @@
+/uploads
+/front-end/vids
+/front-end/vids1
+assets/layouts/layout/css/themes/sass/*
+!assets/layouts/layout/css/themes/sass/layouts/layout/themes/blue.css
+site/app/libraries
+/phpMyAdmin
